@@ -34,11 +34,11 @@ I'm especially interested in projects where **engineering meets real-world impac
 
 ```text
 ╭─ CURRENT OPERATING MODE ─────────────────────────────────────────╮
-│  BUILD     → Useful products, prototypes, and developer tools     │
-│  EXPLORE   → AI workflows, software systems, emerging tech         │
-│  RESEARCH  → Drone-related concepts + software innovation          │
-│  PRINCIPLE → Make it work. Make it clear. Keep improving it.       │
-╰───────────────────────────────────────────────────────────────────╯
+│  BUILD     → Useful products, prototypes, and developer tools    │
+│  EXPLORE   → AI workflows, software systems, emerging tech       │
+│  RESEARCH  → Drone-related concepts + software innovation        │
+│  PRINCIPLE → Make it work. Make it clear. Keep improving it.     │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
 ## ⚡ Selected work
