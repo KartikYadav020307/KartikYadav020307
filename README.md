@@ -124,7 +124,7 @@ I'm especially interested in projects where **engineering meets real-world impac
 
 ---
 
-## 🤝 Let’s build something worth shipping
+## 🤝 Let’s build something worth shipping...
 
 I'm interested in thoughtful collaborations, hackathons, open-source work, research-driven ideas, and conversations about practical AI or software innovation.
 
