@@ -46,7 +46,7 @@ I'm especially interested in projects where **engineering meets real-world impac
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 LOCUS · Medical Document Intelligence</h3>
+      <h3>🧠 LOCUS · Medical Document Intelligence App</h3>
       <p>Evidence-first medical intake: extracts structured facts from medical PDFs and links findings back to their source locations, so a reviewer can verify the evidence instead of taking an AI summary on faith.</p>
       <p><strong>Stack:</strong> Next.js · React · TypeScript · Supabase · Gemini</p>
       <p><a href="https://github.com/KartikYadav020307/medical-intakev3">Explore LOCUS →</a></p>
